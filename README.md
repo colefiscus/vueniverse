@@ -1,7 +1,8 @@
 # Vueniverse
-Turing Mod 3 Stretch Tech Project
 
 ## Overview
+
+Visit the deployed page [here](https://thevueniverse.vercel.app)
 
 "Vueniverse" is a Vue application built collaboratively by [Lucas Merchant](https://github.com/lbmerchant93), [Richard Tyler](https://github.com/richardltyler/), and [Cole Fiscus](https://github.com/colefiscus) from the [Turing](turing.io) School of Software and Design. The developers had one week to learn a chosen 'stretch' technology - Vue - and apply our learning to a project.
 
